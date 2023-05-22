@@ -5,7 +5,9 @@ This is a simplified version of the LINUX/UNIX shell that is written in C. You a
 ## Features:
 ### Basic commands:
 echo: can print input to screen.
+
 sort: can sort lines in files
+
 ls: Can view all files in current directory using ls.
 exit: Can exit shell using this command. 
 cd: Can change directory using cd and then specifying which directory you want to swtich to.
